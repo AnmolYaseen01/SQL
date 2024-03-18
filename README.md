@@ -1,2 +1,2 @@
 # SQL
-This repository contains Sql coding excersices and functions.
+This repository contains Sql queries.
